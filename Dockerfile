@@ -1,4 +1,4 @@
-FROM tvkk00000/sixmonthsoldmltbcollection:heroku
+FROM tvkk00000/anastylatestcopynew:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
